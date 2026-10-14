@@ -13,7 +13,7 @@ This assignment has two parts: implementing Graph Convolutional Networks from sc
 - **Visualization:** t-SNE of hidden node embeddings across training epochs
 - **Result:** the 2-layer Stacked GCN reaches **80.1%** test accuracy
 
-### Theory Conclusions
+### Theory question
 *(The theory part of this assignment was submitted as a handwritten report.)*
 
 - **Graph isomorphism:** two given graphs were shown to be isomorphic by constructing an explicit node mapping that preserves all edges.
