@@ -21,3 +21,7 @@ Python, NumPy, SciPy, scikit-image, Matplotlib, PyTorch, MedMNIST, CellProfiler
 Each notebook is self-contained. Install the dependencies listed at the top of each notebook.
 
 Some assignments require external datasets that are not included in this repository; download instructions are inside the corresponding notebooks.
+
+## Credits
+
+- The poster summarizes the work of X. Meng, Z. Wang, Y. Li, et al. ([ScribFormer, IEEE TMI 2023](https://doi.org/10.1109/TMI.2024.3363190)); all methods and results belong to the original authors.
